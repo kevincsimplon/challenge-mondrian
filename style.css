@@ -1,82 +1,115 @@
 .white{background-color: #B0B0B0 ;
 height: 785px;
-width:100px;}
+width:100px;
+border: black solid 7px;}
+
+.white:hover{background-color: blue;
+zoom: 125%;}
+
 .white1{background-color: yellow;
 width:100px;
 height: 420px;
 margin-top: -430px;
-}
-
-
+border: black solid 7px;}
+.white1:hover{background-color: blue;
+zoom: 125%;}
 
 .white2{background-color: white;
 margin-left:-159px;
 height:130px;
 width: 200px;
-}
+border: black solid 7px;}
+.white2:hover{background-color: blue;
+zoom: 125%;}
 
 .white22{background-color: #000033;
 width: 200px;
 height: 500px;
 margin-left: -159px;
-margin-top: -10px;}
+margin-top: -10px;
+border: black solid 7px;}
+.white22:hover{background-color: blue;
+zoom: 125%;}
 
 .white222{background-color: yellow;
 width:200px;
 height: 155px;
 margin-left: -159px;
-margin-top: -10px;}
+margin-top: -10px;
+border: black solid 7px;}
+.white222:hover{background-color: red;
+zoom: 125%;}
 
 .white3{background-color: yellow;
 width:135px;
 height: 785px;
-margin-left: -217px;}
+margin-left: -217px;
+border: black solid 7px;}
+.white3:hover{background-color: blue;
+zoom: 125%;}
 
 .white33{background-color: #B0B0B0 ;
 width: 330px;
 height: 265px;
 margin-top: -430px;
-margin-left: -217px;}
+margin-left: -217px;
+border: black solid 7px;}
+.white33:hover{background-color: purple;
+zoom: 125%;}
 
 .white333{background-color: #580000 ;
 width: 931px;
 height: 155px;
 margin-top: -10px;
 margin-left: -217px;
-}
+border: black solid 7px;}
 
-
-
-
-
+.white333:hover{background-color: blue;
+zoom: 125%;}
 
 .white4{background-color: white;
 width:600px;
 height:300px;
-margin-left:-342px}
+margin-left:-342px;
+border: black solid 7px;}
+.white4:hover{background-color: green;
+zoom: 125%;}
+
 
 .white44{background-color: #000033;
   width:600px;
 height:235px;
 margin-left:-342px;
 margin-top: -180px;
-}
+border: black solid 7px;}
+.white44:hover{background-color: blue;
+zoom: 125%;}
 
 .white444{background-color: #580000;
 width: 402px;
 height: 145px;
 margin-left: -147px;
-margin-top:120px}
+margin-top:120px;
+border: black solid 7px;}
+.white444:hover{background-color: blue;
+zoom: 125%;}
 
 .white5{background-color: yellow;
   width: 200px;
   height: 365px;
-margin-left: -3px}
+margin-left: -3px;
+border: black solid 7px;}
+.white5:hover{background-color: green;
+zoom: 125%;}
+
 .white55{background-color: #000033;
 width:200px;
 height:265px;
 margin-left: -4px;
-margin-top: -10px;}
+margin-top: -10px;
+border: black solid 7px;}
+.white55:hover{background-color: red;
+zoom: 125%;}
 
 html, body
 {
